@@ -8,4 +8,4 @@ result = {}
 for i in range(len(nums)):
     result[nums[i]] = values[i]
 
-print(result)
+print(result)  

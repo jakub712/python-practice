@@ -11,5 +11,5 @@ result = {}
 for i in range(len(keys)):
     result[keys[i]] = values[i]
 
-print(result)  # {'a': 1, 'b': 2}
+print(result)  
 
