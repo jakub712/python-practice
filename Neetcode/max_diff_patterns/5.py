@@ -8,4 +8,4 @@ max_diff = float('-inf')
 
 for i in range(len(nums)-1):
     diff = nums[i +1] - nums[i]
-print(diff)
+    print(diff)
