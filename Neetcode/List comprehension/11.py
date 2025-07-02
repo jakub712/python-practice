@@ -6,3 +6,5 @@ grid = [
 # Your task: Use list comprehension to flatten the grid into a 1D list.
 flat = [num for row in grid for num in row]
 print(flat)
+
+#
