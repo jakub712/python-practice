@@ -15,7 +15,7 @@ x = cleaned.split()
 for i in x:
     if i.isdigit():
         num_count +=1
-    else:z
+    else:
         word_count +=1
 
 
